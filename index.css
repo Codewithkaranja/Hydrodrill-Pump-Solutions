@@ -446,7 +446,7 @@ header.header-small:not(.header-transparent) .logo-img {
 /* Services Overview - Fixed image URL */
 .services-overview {
   background: linear-gradient(rgba(238, 239, 240, 0.881), rgba(248, 249, 250, 0.911)),
-    url("image\ \(98\).webp");
+    url("image\ -\ 2026-01-04T072020.069.webp");
   background-size: cover;
   background-position: center;
   color: rgba(255, 255, 255, 0.801);
@@ -570,7 +570,7 @@ header.header-small:not(.header-transparent) .logo-img {
 #projects {
   padding: 6rem 0;
   background: linear-gradient(rgba(45, 48, 51, 0.945), rgba(5, 16, 28, 0.788)),
-    url("Ocean\ Drill\ Field\ Work.webp");
+    url("image\ -\ 2026-01-04T072020.069.webp");
   background-size: cover;
   background-position: center;
 }

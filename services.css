@@ -29,7 +29,7 @@
         color: var(--slate-gray);
         background-color: var(--white);
         background: linear-gradient(rgba(238, 239, 240, 0.829), rgba(208, 210, 211, 0.788)),
-    url("Ocean\ Drill\ Homepage.webp");
+    url("image\ -\ 2026-01-04T072020.069.webp");
   background-size: cover;
   background-position: center;
       }
@@ -370,7 +370,7 @@ header.header-small:not(.header-transparent) .logo-img {
   justify-content: center;
   align-items: center;
   background: linear-gradient(rgba(0, 21, 36, 0.55), rgba(0, 21, 36, 0.85)),
-              url("Ocean\ Drill\ 1.webp") center/cover no-repeat;
+              url("image\ -\ 2026-01-04T072020.069.webp") center/cover no-repeat;
   overflow: hidden;
   opacity: 0;
   transform: translateY(-40px);
